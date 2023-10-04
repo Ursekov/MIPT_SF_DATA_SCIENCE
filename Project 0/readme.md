@@ -1,4 +1,4 @@
-# Проект 0. Угадай число (https://github.com/Ursekov/MIPT_SF_DATA_SCIENCE/tree/main/Project%200)
+# [Проект 0. Угадай число](https://github.com/Ursekov/MIPT_SF_DATA_SCIENCE/tree/main/Project%200)
 
 ## Оглавление  
 [1. Описание проекта](.README.md#Описание-проекта)  
