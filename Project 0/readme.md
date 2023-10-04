@@ -31,7 +31,7 @@
 
 
 ### Краткая информация о данных
-Материалы, представленные МФТИ, лежат в облаке на Google Диск по ссылке: https://drive.google.com/drive/folders/1CnZIvDAE6x4eSsFkjbovUrECZmj4qjD1?usp=sharing.
+Материалы, представленные МФТИ, лежат в облаке на [Google Диск](https://drive.google.com/drive/folders/1CnZIvDAE6x4eSsFkjbovUrECZmj4qjD1?usp=sharing.)
 Среди представленных материалов есть два готовых решения для поиска числа и функция(score_game), которая создает список загадываемых чисел через функцию(np.random.randint(1, 101, size=(1000))) и вычисляет среднее количество попыток, которое нужно программе.
   
 :arrow_up:[к оглавлению](.README.md#Оглавление)
